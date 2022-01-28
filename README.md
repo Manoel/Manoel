@@ -1,8 +1,8 @@
 ## Manoel Rodrigues 🐘 
 
 - 👋 Hi, I’m @Manoel Rodrigues
-- 👀 I’m interested in Data Analytics/Data Engineering
-- 📚 I’m currently learning Python, R, AWS
+- 👀 I’m interested in machine learning algorithms
+- 📚 Currently learning data, statistics, cloud and random stuff.
 
 <div align="center">
   <a href="https://github.com/Manoel/projeto_manu">
