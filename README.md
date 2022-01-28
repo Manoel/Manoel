@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Manoel Rodrigues
 - 👀 I’m interested in machine learning algorithms
-- 📚 Currently learning data, statistics, cloud and random stuff.
+- 📚 Currently learning data, statistics, cloud, Python, R, AWS and random stuff.
 
 <div align="center">
   <a href="https://github.com/Manoel/projeto_manu">
