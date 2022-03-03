@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Manoel/Manoel">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Manoel&repo=Manoel&theme=algolia" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Manoel&repo=Bootcamp-Engenharia-de-Dados&theme=algolia" />
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel&rep=Bootcamp-Engenharia-de-Dados&theme=algolia" />
 </div>
   
