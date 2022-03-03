@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Manoel/Manoel">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Manoel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Manoel&repo=Manoel&theme=algolia" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel&rep=Bootcamp-Engenharia-de-Dados&theme=algolia"/>
 </div>
   
 <div style="display: inline_block"><br>
