@@ -27,6 +27,10 @@
   <a href="https://www.linkedin.com/in/manoel-rodrigues-do-nascimento-2359a732" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
+  ##
+  
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Manoel.visitor-badge&left_text=MyPageVisitors)
+  
 <!---
 Manoel/Manoel Rodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
