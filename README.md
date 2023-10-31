@@ -26,8 +26,17 @@
   <a href = "mailto:jiujitsu30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manoel-rodrigues-do-nascimento-2359a732" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
-  ##
+
+##
+
+## Contacts: 
+
+#### <code> E-mail: manoelrodrigues.nascimento@gmail.com </code> 
+#### <code> Linkedin: <a href="https://www.linkedin.com/in/manoel-rodrigues-do-nascimento-2359a732/"> Manoel Rodrigues do Nascimento</a> </code>
+#### <code> GitHub: <a href="https://github.com/Manoel"> github.com/Manoel </a> </code>
+#### <code> Portfolio: <a href="https://manoel.github.io"> manoel.github.io </a> </code>
+
+##
   
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Manoel.visitor-badge&left_text=MyPageVisitors)
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=Manoel" alt="argentinaluiz" /> </p -->
