@@ -37,8 +37,7 @@
 #### <code> Portfolio: <a href="https://manoel.github.io"> manoel.github.io </a> </code>
 
 ##
-  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Manoel.visitor-badge&left_text=MyPageVisitors)
+
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=Manoel" alt="argentinaluiz" /> </p -->
 <!---
 Manoel/Manoel Rodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
