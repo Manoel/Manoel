@@ -4,12 +4,6 @@
 - 👀 I’m interested in AI Engineering
 - 📚 Currently learning Certification Apache Spark Developer Associate.
 
-<div align="center">
-  <a href="https://github.com/Manoel/Manoel">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manoel&show_icons=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manoel&show_icons=true&theme=algolia" />
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Rafa-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
