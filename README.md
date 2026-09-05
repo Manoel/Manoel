@@ -1,8 +1,8 @@
 ## Manoel Rodrigues 🐘 
 
 - 👋 Hi, I’m @Manoel Rodrigues
-- 👀 I’m interested in machine learning algorithms
-- 📚 Currently learning data, statistics, cloud, Python, R, AWS and random stuff.
+- 👀 I’m interested in AI Engineering
+- 📚 Currently learning Certification Apache Spark Developer Associate.
 
 <div align="center">
   <a href="https://github.com/Manoel/Manoel">
